@@ -245,16 +245,18 @@ Least busy: S1 (1 tasks)
 ---
 
 ## 10. Screenshots
+1. Main menu after launch.
+   <img width="576" height="370" alt="Screenshot 2026-06-14 at 2 56 36 PM" src="https://github.com/user-attachments/assets/14731f85-7646-4a4c-bab5-a96bbcbadd86" />
 
-> Add screenshots of the running program here. Suggested captures:
-> 1. Main menu after launch.
-> 2. Fast Pass module showing the fastest route (Example A).
-> 3. Threat Dictionary search result.
-> 4. Load Balancer load-status bars.
->
-> To insert: put images in a `screenshots/` folder and reference them like:
->
-> `![Main Menu](screenshots/main-menu.png)`
+2. Fast Pass module showing the fastest route (Example A).
+   <img width="1152" height="676" alt="Screenshot 2026-06-14 at 2 57 27 PM" src="https://github.com/user-attachments/assets/b5155b96-3faa-44b0-8586-0c96633885be" />
+
+3. Threat Dictionary search result.
+   <img width="1231" height="664" alt="Screenshot 2026-06-14 at 2 58 27 PM" src="https://github.com/user-attachments/assets/8352402e-0ef3-4181-8a2b-bc403c9461a8" />
+
+4. Load Balancer load-status bars.
+   <img width="1213" height="645" alt="Screenshot 2026-06-14 at 2 59 33 PM" src="https://github.com/user-attachments/assets/1cc0c59a-6670-45c2-9a1e-0184ee15ed04" />
+
 
 ---
 
